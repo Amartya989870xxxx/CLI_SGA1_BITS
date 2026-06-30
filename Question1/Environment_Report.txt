@@ -1,0 +1,28 @@
+Username: amartyajp6969
+Groups: amartyajp6969 adm sudo docker
+Shell: /bin/bash
+Current Directory: /home/amartyajp6969/Question1
+
+Files and Directories:
+total 12
+drwxrwxr-x  2 amartyajp6969 amartyajp6969 4096 Jun 30 19:57 .
+drwxr-x--- 10 amartyajp6969 amartyajp6969 4096 Jun 30 19:53 ..
+-rw-rw-r--  1 amartyajp6969 amartyajp6969  152 Jun 30 20:02 Environment_Report.txt
+
+Network Connectivity:
+PING google.com (172.253.118.113) 56(84) bytes of data.
+64 bytes from sl-in-f113.1e100.net (172.253.118.113): icmp_seq=1 ttl=114 time=0.599 ms
+64 bytes from sl-in-f113.1e100.net (172.253.118.113): icmp_seq=2 ttl=114 time=0.438 ms
+64 bytes from sl-in-f113.1e100.net (172.253.118.113): icmp_seq=3 ttl=114 time=0.303 ms
+64 bytes from sl-in-f113.1e100.net (172.253.118.113): icmp_seq=4 ttl=114 time=0.323 ms
+
+--- google.com ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3050ms
+rtt min/avg/max/mdev = 0.303/0.415/0.599/0.117 ms
+
+Updated Files and Directories:
+total 16
+drwxrwxr-x  2 amartyajp6969 amartyajp6969 4096 Jun 30 20:11 .
+drwxr-x--- 10 amartyajp6969 amartyajp6969 4096 Jun 30 19:53 ..
+-rw-rw-r--  1 amartyajp6969 amartyajp6969  977 Jun 30 20:13 Environment_Report.txt
+-rw-rw-r--  1 amartyajp6969 amartyajp6969 2683 Jun 30 20:12 README.md
